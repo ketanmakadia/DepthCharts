@@ -1,0 +1,17 @@
+[
+  {
+  "playerId": 1,
+  "name": "Bob",
+  "position": "WR"
+  },
+  {
+    "playerId": 2,
+    "name": "Hary",
+    "position": "WR"
+  },
+  {
+    "playerId": 3,
+    "name": "John",
+    "position": "WR"
+  }
+]
